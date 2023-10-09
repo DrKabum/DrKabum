@@ -1,22 +1,7 @@
-### Hi there 👋, I'm Nicolas Broca, a former nurse that wants to become a dev
+### Hi there 👋, I'm Nicolas Broca, Software and DevSecOps engineer
+I am javascript and python developer and I have been working in DevSecOps since 2022. I can build things with NodeJS, Bun, ExpressJS, React, NextJS, HTML and CSS and I can automate a whole lot of stuff using those languages, GitHub actions, Azure DevOps and many other things.
 
-I'm new in the dev industry. I've been looking for a career change after 10 years as a nurse, with a very exciting career as a paramedic (or kind of, in France it's a bit different, but it's very similar) and in an international NGO. I've been programming on small projects during all that time too, I even created an app to manage disaster victims!
-
-Now, I'm in the process of moving to Australia and I feel like it's time to change my career to become a pro developer. I've trained hard in front-end web development, in online bootcamps, but I also enjoy a lot backend and I'm skilling up with Python too.
-
-I love HTML/CSS, JavaScript and React!
-<p>
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/officel/80/000000/react.png"/>
-</p>
-
-I'm skilling up with Python, NodeJS and some frameworks like Express.js
-<p>
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
-</p>
+I've also worked as a nurse/paramedic for 10 years before that, on land and on sea and as a field worker for humanitarian NGOs. I know the value of teamwork, constant learning, and how impactful open source and accessible tech can be in even the most unexpected places. This also taught me to manage pressure and think out of the box.
 
 Feel free to contact me 😉
 
